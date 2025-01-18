@@ -19,11 +19,6 @@
       },
       "package": "com.andrico.planes.stytchfirebaserepro"
     },
-    "web": {
-      "bundler": "metro",
-      "output": "static",
-      "favicon": "./assets/images/favicon.png"
-    },
     "plugins": [
       [
         "expo-build-properties",
